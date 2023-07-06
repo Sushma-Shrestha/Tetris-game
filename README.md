@@ -16,6 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 - Video Link - (https://screenrec.com/share/wscUBZIGQX)
-![Alt text](./assets/images/game%20photo.png)
-
-## Short video playing tetris
+<br/><img src="./assets/images/game%20photo.png" width="320" height="750" align="center">

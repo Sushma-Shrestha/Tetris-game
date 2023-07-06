@@ -289,6 +289,7 @@ class _GameBoardState extends State<GameBoard> {
                     }
                   }),
             ),
+            SizedBox(height: 20),
             Text('Score: $currentScore', style: TextStyle(color: Colors.white)),
             Padding(
               padding: const EdgeInsets.only(bottom: 20, top: 50),
@@ -297,12 +298,19 @@ class _GameBoardState extends State<GameBoard> {
                 children: [
                   IconButton(
                       onPressed: moveLeft,
-                      icon: Icon(Icons.arrow_back_ios_new)),
+                      icon: Icon(
+                        Icons.arrow_back_ios_new,
+                        color: Colors.white,
+                      )),
                   IconButton(
-                      onPressed: rotatePiece, icon: Icon(Icons.rotate_right)),
+                      onPressed: rotatePiece,
+                      icon: Icon(
+                        Icons.rotate_right,
+                        color: Colors.white,
+                      )),
                   IconButton(
                       onPressed: moveRight,
-                      icon: Icon(Icons.arrow_forward_ios)),
+                      icon: Icon(Icons.arrow_forward_ios, color: Colors.white)),
                 ],
               ),
             )

@@ -15,8 +15,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-- [Video Link](https://screenrec.com/share/wscUBZIGQX)
+- Video Link - (https://screenrec.com/share/wscUBZIGQX)
 ![Alt text](./assets/images/game%20photo.png)
 
 ## Short video playing tetris
-![Alt text](./assets/video/game.mp4)
